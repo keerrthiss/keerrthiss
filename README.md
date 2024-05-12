@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerrthiss
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML , CSS , React
+- 🌱 I’m currently learning React
   
 
 <!---
